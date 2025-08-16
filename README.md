@@ -5,3 +5,4 @@ Interfaced current sensors and temperature sensors with STM32 to gather live mot
 
 Used NanoEdge AI Studio to train a lightweight anomaly detection model based on normal operation data—no pre-labeling required.
 
+LINK: https://drive.google.com/drive/folders/1GYvX4yF7pcHHVO695RXYOdyLvjFSxgbd?usp=sharing
